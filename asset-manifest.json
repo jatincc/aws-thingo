@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/aws-thingo/static/js/main.eb9dd2aa.chunk.js",
+    "main.js.map": "/aws-thingo/static/js/main.eb9dd2aa.chunk.js.map",
+    "runtime-main.js": "/aws-thingo/static/js/runtime-main.915b1ed3.js",
+    "runtime-main.js.map": "/aws-thingo/static/js/runtime-main.915b1ed3.js.map",
+    "static/js/2.959b16ac.chunk.js": "/aws-thingo/static/js/2.959b16ac.chunk.js",
+    "static/js/2.959b16ac.chunk.js.map": "/aws-thingo/static/js/2.959b16ac.chunk.js.map",
+    "index.html": "/aws-thingo/index.html",
+    "static/js/2.959b16ac.chunk.js.LICENSE.txt": "/aws-thingo/static/js/2.959b16ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.915b1ed3.js",
+    "static/js/2.959b16ac.chunk.js",
+    "static/js/main.eb9dd2aa.chunk.js"
+  ]
+}
