@@ -81,7 +81,7 @@
 		"id": 4,
 		"qid": "451982",
 		"title": "Question #4 Topic 1",
-		"question": "A Developer is working on an application that tracks hundreds of millions of product reviews in an Amazon DynamoDB table. The records include the data elements shown in the table:<br><img src=\"/assets/0000300001.png\" class=\"in-exam-image\"><br>Which field, when used as the partition key, would result in the MOST consistent performance using DynamoDB?<br>",
+		"question": "A Developer is working on an application that tracks hundreds of millions of product reviews in an Amazon DynamoDB table. The records include the data elements shown in the table:<br><img src=\"/aws-thingo/assets/0000300001.png\" class=\"in-exam-image\"><br>Which field, when used as the partition key, would result in the MOST consistent performance using DynamoDB?<br>",
 		"images": [
 			"https://www.examtopics.com/assets/media/exam-media/02738/0000300001.png"
 		],
@@ -214,7 +214,7 @@
 		"id": 9,
 		"qid": "451987",
 		"title": "Question #9 Topic 1",
-		"question": "A Developer has implemented a Lambda function that needs to add new customers to an RDS database that is expected to run hundreds of times per hour. The<br>Lambda function is configured to use 512MB of RAM and is based on the following pseudo code:<br><img src=\"/assets/0000600001.png\" class=\"in-exam-image\"><br>After testing the Lambda function, the Developer notices that the Lambda execution time is much longer than expected. What should the Developer do to improve performance?<br>",
+		"question": "A Developer has implemented a Lambda function that needs to add new customers to an RDS database that is expected to run hundreds of times per hour. The<br>Lambda function is configured to use 512MB of RAM and is based on the following pseudo code:<br><img src=\"/aws-thingo/assets/0000600001.png\" class=\"in-exam-image\"><br>After testing the Lambda function, the Developer notices that the Lambda execution time is much longer than expected. What should the Developer do to improve performance?<br>",
 		"images": [
 			"https://www.examtopics.com/assets/media/exam-media/02738/0000600001.png"
 		],
@@ -455,7 +455,7 @@
 		"id": 18,
 		"qid": "451996",
 		"title": "Question #18 Topic 1",
-		"question": "Given the source code for an AWS Lambda function in the local store.py containing a handler function called get_store and the following AWS<br>CloudFormation template:<br><img src=\"/assets/0001000001.png\" class=\"in-exam-image\"><br>What should be done to prepare the template so that it can be deployed using the AWS CLI command aws cloudformation deploy?<br>",
+		"question": "Given the source code for an AWS Lambda function in the local store.py containing a handler function called get_store and the following AWS<br>CloudFormation template:<br><img src=\"/aws-thingo/assets/0001000001.png\" class=\"in-exam-image\"><br>What should be done to prepare the template so that it can be deployed using the AWS CLI command aws cloudformation deploy?<br>",
 		"images": [
 			"https://www.examtopics.com/assets/media/exam-media/02738/0001000001.png"
 		],
@@ -1060,7 +1060,7 @@
 		"id": 41,
 		"qid": "452019",
 		"title": "Question #41 Topic 1",
-		"question": "The Lambda function below is being called through an API using Amazon API Gateway. The average execution time for the Lambda function is about 1 second.<br>The pseudocode for the Lambda function is as shown in the exhibit.<br><img src=\"/assets/0002100001.png\" class=\"in-exam-image\"><br>What two actions can be taken to improve the performance of this Lambda function without increasing the cost of the solution? (Select two.)<br>",
+		"question": "The Lambda function below is being called through an API using Amazon API Gateway. The average execution time for the Lambda function is about 1 second.<br>The pseudocode for the Lambda function is as shown in the exhibit.<br><img src=\"/aws-thingo/assets/0002100001.png\" class=\"in-exam-image\"><br>What two actions can be taken to improve the performance of this Lambda function without increasing the cost of the solution? (Select two.)<br>",
 		"images": [
 			"https://www.examtopics.com/assets/media/exam-media/02738/0002100001.png"
 		],
@@ -1331,7 +1331,7 @@
 		"id": 51,
 		"qid": "452029",
 		"title": "Question #51 Topic 1",
-		"question": "A development team consists of 10 team members. Similar to a home directory for each team member the manager wants to grant access to user-specific folders in an Amazon S3 bucket. For the team member with the username \"TeamMemberX\", the snippet of the IAM policy looks like this:<br><img src=\"/assets/0002600001.png\" class=\"in-exam-image\"><br>Instead of creating distinct policies for each team member, what approach can be used to make this policy snippet generic for all team members?<br>",
+		"question": "A development team consists of 10 team members. Similar to a home directory for each team member the manager wants to grant access to user-specific folders in an Amazon S3 bucket. For the team member with the username \"TeamMemberX\", the snippet of the IAM policy looks like this:<br><img src=\"/aws-thingo/assets/0002600001.png\" class=\"in-exam-image\"><br>Instead of creating distinct policies for each team member, what approach can be used to make this policy snippet generic for all team members?<br>",
 		"images": [
 			"https://www.examtopics.com/assets/media/exam-media/02738/0002600001.png"
 		],
@@ -1468,7 +1468,7 @@
 		"id": 56,
 		"qid": "452034",
 		"title": "Question #56 Topic 1",
-		"question": "A Developer executed a AWS CLI command and received the error shown below:<br><img src=\"/assets/0002800001.png\" class=\"in-exam-image\"><br>What action should the Developer perform to make this error human-readable?<br>",
+		"question": "A Developer executed a AWS CLI command and received the error shown below:<br><img src=\"/aws-thingo/assets/0002800001.png\" class=\"in-exam-image\"><br>What action should the Developer perform to make this error human-readable?<br>",
 		"images": [
 			"https://www.examtopics.com/assets/media/exam-media/02738/0002800001.png"
 		],
@@ -3133,7 +3133,7 @@
 		"id": 119,
 		"qid": "452097",
 		"title": "Question #119 Topic 1",
-		"question": "A company has an internet-facing application that uses Web Identity Federation to obtain a temporary credential from AWS Security Token Service (AWS STS).<br>The app then uses the token to access AWS services.<br>Review the following response:<br><img src=\"/assets/0005900001.jpg\" class=\"in-exam-image\"><br>Based on the response displayed what permissions are associated with the call from the application?<br>",
+		"question": "A company has an internet-facing application that uses Web Identity Federation to obtain a temporary credential from AWS Security Token Service (AWS STS).<br>The app then uses the token to access AWS services.<br>Review the following response:<br><img src=\"/aws-thingo/assets/0005900001.jpg\" class=\"in-exam-image\"><br>Based on the response displayed what permissions are associated with the call from the application?<br>",
 		"images": [
 			"https://www.examtopics.com/assets/media/exam-media/02738/0005900001.jpg"
 		],
@@ -3266,7 +3266,7 @@
 		"id": 124,
 		"qid": "452102",
 		"title": "Question #124 Topic 1",
-		"question": "A company is building an application to track athlete performance using an Amazon DynamoDB table. Each item in the table is identified by a partition key<br>(user_id) and a sort key (sport_name). The table design is shown below:<br><img src=\"/assets/0006100001.png\" class=\"in-exam-image\"><br>A Developer is asked to write a leaderboard application to display the top performers (user_id) based on the score for each sport_name.<br>What process will allow the Developer to extract results MOST efficiently from the DynamoDB table?<br>",
+		"question": "A company is building an application to track athlete performance using an Amazon DynamoDB table. Each item in the table is identified by a partition key<br>(user_id) and a sort key (sport_name). The table design is shown below:<br><img src=\"/aws-thingo/assets/0006100001.png\" class=\"in-exam-image\"><br>A Developer is asked to write a leaderboard application to display the top performers (user_id) based on the score for each sport_name.<br>What process will allow the Developer to extract results MOST efficiently from the DynamoDB table?<br>",
 		"images": [
 			"https://www.examtopics.com/assets/media/exam-media/02738/0006100001.png"
 		],
@@ -4385,7 +4385,7 @@
 		"id": 166,
 		"qid": "452144",
 		"title": "Question #166 Topic 1",
-		"question": "An e-commerce site allows returning users to log in to display customized web pages. The workflow is shown in the image below:<br><img src=\"/assets/0008200001.jpg\" class=\"in-exam-image\"><br>An application is running on EC2 instances. Amazon RDS is used for the database that stores user accounts and preferences. The website freezes or is slow to load while waiting for the login step to complete. The remaining components of the site are well-optimized.<br>Which of the following techniques will resolve this issue? (Select Two.)<br>",
+		"question": "An e-commerce site allows returning users to log in to display customized web pages. The workflow is shown in the image below:<br><img src=\"/aws-thingo/assets/0008200001.jpg\" class=\"in-exam-image\"><br>An application is running on EC2 instances. Amazon RDS is used for the database that stores user accounts and preferences. The website freezes or is slow to load while waiting for the login step to complete. The remaining components of the site are well-optimized.<br>Which of the following techniques will resolve this issue? (Select Two.)<br>",
 		"images": [
 			"https://www.examtopics.com/assets/media/exam-media/02738/0008200001.jpg"
 		],
@@ -4470,7 +4470,7 @@
 		"id": 169,
 		"qid": "452147",
 		"title": "Question #169 Topic 1",
-		"question": "A Developer created configuration specifications for an AWS Elastic Beanstalk application in a file named healthcheckurl.yaml in the .ebextensions/directory of their application source bundle. The file contains the following:<br><img src=\"/assets/0008400001.jpg\" class=\"in-exam-image\"><br>After the application launches, the health check is not being run on the correct path, event though it is valid.<br>What can be done to correct this configuration file?<br>",
+		"question": "A Developer created configuration specifications for an AWS Elastic Beanstalk application in a file named healthcheckurl.yaml in the .ebextensions/directory of their application source bundle. The file contains the following:<br><img src=\"/aws-thingo/assets/0008400001.jpg\" class=\"in-exam-image\"><br>After the application launches, the health check is not being run on the correct path, event though it is valid.<br>What can be done to correct this configuration file?<br>",
 		"images": [
 			"https://www.examtopics.com/assets/media/exam-media/02738/0008400001.jpg"
 		],
@@ -5039,7 +5039,7 @@
 		"id": 190,
 		"qid": "452168",
 		"title": "Question #190 Topic 1",
-		"question": "A Developer accesses AWS CodeCommit over SSH. The SSH keys configured to access AWS CodeCommit are tied to a user with the following permissions:<br><img src=\"/assets/0009400001.png\" class=\"in-exam-image\"><br>The Developer needs to create/delete branches.<br>Which specific IAM permissions need to be added, based on the principle of least privilege?<br>",
+		"question": "A Developer accesses AWS CodeCommit over SSH. The SSH keys configured to access AWS CodeCommit are tied to a user with the following permissions:<br><img src=\"/aws-thingo/assets/0009400001.png\" class=\"in-exam-image\"><br>The Developer needs to create/delete branches.<br>Which specific IAM permissions need to be added, based on the principle of least privilege?<br>",
 		"images": [
 			"https://www.examtopics.com/assets/media/exam-media/02738/0009400001.png"
 		],
@@ -5198,7 +5198,7 @@
 		"id": 196,
 		"qid": "452174",
 		"title": "Question #196 Topic 1",
-		"question": "A company needs a version control system for collaborative software development. Features of the system must include the following:<br>âœ‘ Support for batches of changes across multiple files<br>âœ‘ Parallel branching<br>âœ‘ Version tracking<br>Which AWS service will meet these requirements?<br>",
+		"question": "A company needs a version control system for collaborative software development. Features of the system must include the following:<br>Support for batches of changes across multiple files<br>Parallel branching<br>Version tracking<br>Which AWS service will meet these requirements?<br>",
 		"answers": [
 			{
 				"body": "A. AWS CodePipeline",
@@ -5250,7 +5250,7 @@
 		"id": 198,
 		"qid": "452176",
 		"title": "Question #198 Topic 1",
-		"question": "A Developer created a new AWS account and must create a scalable AWS Lambda function that meets the following requirements for concurrent execution:<br>âœ‘ Average execution time of 100 seconds<br>âœ‘ 50 requests per second<br>Which step must be taken prior to deployment to prevent errors?<br>",
+		"question": "A Developer created a new AWS account and must create a scalable AWS Lambda function that meets the following requirements for concurrent execution:<br>Average execution time of 100 seconds<br>50 requests per second<br>Which step must be taken prior to deployment to prevent errors?<br>",
 		"answers": [
 			{
 				"body": "A. Implement dead-letter queues to capture invocation errors",
@@ -8436,7 +8436,7 @@
 		"id": 371,
 		"qid": "566412",
 		"title": "Question #163 Topic 2",
-		"question": "An application has the following requirements:<br>âœ‘ Performance efficiency of seconds with up to a minute of latency.<br>âœ‘ The data storage size may grow up to thousands of terabytes.<br>âœ‘ Per-message sizes may vary between 100 KB and 100 MB.<br>âœ‘ Data can be stored as key/value stores supporting eventual consistency.<br>What is the MOST cost-effective AWS service to meet these requirements?<br>",
+		"question": "An application has the following requirements:<br>Performance efficiency of seconds with up to a minute of latency.<br>The data storage size may grow up to thousands of terabytes.<br>Per-message sizes may vary between 100 KB and 100 MB.<br>Data can be stored as key/value stores supporting eventual consistency.<br>What is the MOST cost-effective AWS service to meet these requirements?<br>",
 		"answers": [
 			{
 				"body": "A. Amazon DynamoDB",
@@ -8488,7 +8488,7 @@
 		"id": 373,
 		"qid": "566414",
 		"title": "Question #165 Topic 2",
-		"question": "A Developer has an Amazon DynamoDB table that must be in provisioned mode to comply with user requirements. The application needs to support the following:<br>âœ‘ Average item size: 10 KB<br>âœ‘ Item reads each second: 10 strongly consistent<br>âœ‘ Item writes each second: 2 transactional<br>Which read and write capacity cost-effectively meets these requirements?<br>",
+		"question": "A Developer has an Amazon DynamoDB table that must be in provisioned mode to comply with user requirements. The application needs to support the following:<br>Average item size: 10 KB<br>Item reads each second: 10 strongly consistent<br>Item writes each second: 2 transactional<br>Which read and write capacity cost-effectively meets these requirements?<br>",
 		"answers": [
 			{
 				"body": "A. Read 10; write 2",
@@ -8774,7 +8774,7 @@
 		"id": 384,
 		"qid": "566425",
 		"title": "Question #176 Topic 2",
-		"question": "A company is managing a NoSQL database on-premises to host a critical component of an application, which is starting to have scaling issues. The company wants to migrate the application to Amazon DynamoDB with the following considerations:<br>âœ‘ Optimize frequent queries<br>âœ‘ Reduce read latencies<br>âœ‘ Plan for frequent queries on certain key attributes of the table<br>Which solution would help achieve these objectives?<br>",
+		"question": "A company is managing a NoSQL database on-premises to host a critical component of an application, which is starting to have scaling issues. The company wants to migrate the application to Amazon DynamoDB with the following considerations:<br>Optimize frequent queries<br>Reduce read latencies<br>Plan for frequent queries on certain key attributes of the table<br>Which solution would help achieve these objectives?<br>",
 		"answers": [
 			{
 				"body": "A. Create global secondary indexes on keys that are frequently queried. Add the necessary attributes into the indexes.",
@@ -10020,7 +10020,7 @@
 		"id": 431,
 		"qid": "405399",
 		"title": "Question #223 Topic 2",
-		"question": "A startup s photo-sharing site is deployed in a VPC. An ELB distributes web traffic across two subnets. ELB session stickiness is configured to use the AWS-generated session cookie, with a session TTL of 5 minutes.<br>The webserver Auto Scaling Group is configured as: min-size=4, max-size=4.<br>The startups preparing for a public launch, by running load-testing software installed on a single EC2 instance running in us-west-2<br>After 60 minutes of load-testing, the webserver logs show:<br><img src=\"/assets/n40539900000.jpg\" class=\"in-exam-image\"><br>Which recommendations can help ensure load-testing HTTP requests are evenly distributed across the four webservers? (Choose two.)<br>",
+		"question": "A startup s photo-sharing site is deployed in a VPC. An ELB distributes web traffic across two subnets. ELB session stickiness is configured to use the AWS-generated session cookie, with a session TTL of 5 minutes.<br>The webserver Auto Scaling Group is configured as: min-size=4, max-size=4.<br>The startups preparing for a public launch, by running load-testing software installed on a single EC2 instance running in us-west-2<br>After 60 minutes of load-testing, the webserver logs show:<br><img src=\"/aws-thingo/assets/n40539900000.jpg\" class=\"in-exam-image\"><br>Which recommendations can help ensure load-testing HTTP requests are evenly distributed across the four webservers? (Choose two.)<br>",
 		"images": [
 			"https://www.examtopics.com/assets/media/exam-media/02738/n40539900000.jpg"
 		],
@@ -10053,7 +10053,7 @@
 		"id": 432,
 		"qid": "409695",
 		"title": "Question #224 Topic 2",
-		"question": "A startup s photo-sharing site is deployed in a VPC. An ELB distributes web traffic across two subnets. ELB session stickiness is configured to use the AWS- generated session cookie, with a session TTL of 5 minutes. The webserver Auto Scaling Group is configured as: min-size=4, max-size=4.<br>The startups preparing for a public launch, by running load-testing software installed on a single EC2 instance running in us-west-2<br>After 60 minutes of load-testing, the webserver logs show:<br><img src=\"/assets/n40969500000.jpg\" class=\"in-exam-image\"><br>Which recommendations can help ensure load-testing HTTP requests are evenly distributed across the four webservers? (Choose two.)<br>",
+		"question": "A startup s photo-sharing site is deployed in a VPC. An ELB distributes web traffic across two subnets. ELB session stickiness is configured to use the AWS- generated session cookie, with a session TTL of 5 minutes. The webserver Auto Scaling Group is configured as: min-size=4, max-size=4.<br>The startups preparing for a public launch, by running load-testing software installed on a single EC2 instance running in us-west-2<br>After 60 minutes of load-testing, the webserver logs show:<br><img src=\"/aws-thingo/assets/n40969500000.jpg\" class=\"in-exam-image\"><br>Which recommendations can help ensure load-testing HTTP requests are evenly distributed across the four webservers? (Choose two.)<br>",
 		"images": [
 			"https://www.examtopics.com/assets/media/exam-media/02738/n40969500000.jpg"
 		],

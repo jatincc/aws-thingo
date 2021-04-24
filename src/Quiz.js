@@ -8,6 +8,7 @@ import parse from 'html-react-parser';
 import React from 'react';
 import Dataset from './dataset.json';
 import ListSubheader from '@material-ui/core/ListSubheader';
+import Switch from '@material-ui/core/Switch';
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -38,7 +39,7 @@ const useStyles = makeStyles((theme) => ({
 // }
 // console.log(existing.length)
 
-export default function CheckboxList() {
+export default function CheckboxList({darkMode, onDarkMode}) {
 	const classes = useStyles();
 	const [checked, setChecked] = React.useState([]);
 	const [questions, setQuestions] = React.useState(Dataset.map((_,a) => a));
@@ -94,9 +95,21 @@ export default function CheckboxList() {
 			<List className={classes.root}
 				component="nav"
 				subheader={
-				<ListSubheader disableSticky inset component="li" id="nested-list-subheader">
-					{`${questions.length} Questions left`}
-				</ListSubheader>
+					<div style={{
+									display: 'flex',
+									alignItems:'center'
+								}}>
+						
+					<Switch
+						checked={darkMode}
+						onChange={onDarkMode}
+						name="checkedA"
+						inputProps={{ 'aria-label': 'secondary checkbox' }}
+					/>
+					<ListSubheader disableSticky component="li" id="nested-list-subheader">
+						{`${questions.length} Questions left`}
+					</ListSubheader>
+					</div>
 			}>
 				<ListItem key={45} role={undefined}  >
 
