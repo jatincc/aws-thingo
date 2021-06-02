@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/aws-thingo/static/js/main.b7efdc26.chunk.js",
-    "main.js.map": "/aws-thingo/static/js/main.b7efdc26.chunk.js.map",
+    "main.js": "/aws-thingo/static/js/main.a90f9de3.chunk.js",
+    "main.js.map": "/aws-thingo/static/js/main.a90f9de3.chunk.js.map",
     "runtime-main.js": "/aws-thingo/static/js/runtime-main.915b1ed3.js",
     "runtime-main.js.map": "/aws-thingo/static/js/runtime-main.915b1ed3.js.map",
-    "static/js/2.5da1deb9.chunk.js": "/aws-thingo/static/js/2.5da1deb9.chunk.js",
-    "static/js/2.5da1deb9.chunk.js.map": "/aws-thingo/static/js/2.5da1deb9.chunk.js.map",
+    "static/js/2.288923b7.chunk.js": "/aws-thingo/static/js/2.288923b7.chunk.js",
+    "static/js/2.288923b7.chunk.js.map": "/aws-thingo/static/js/2.288923b7.chunk.js.map",
     "index.html": "/aws-thingo/index.html",
-    "static/js/2.5da1deb9.chunk.js.LICENSE.txt": "/aws-thingo/static/js/2.5da1deb9.chunk.js.LICENSE.txt"
+    "static/js/2.288923b7.chunk.js.LICENSE.txt": "/aws-thingo/static/js/2.288923b7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.915b1ed3.js",
-    "static/js/2.5da1deb9.chunk.js",
-    "static/js/main.b7efdc26.chunk.js"
+    "static/js/2.288923b7.chunk.js",
+    "static/js/main.a90f9de3.chunk.js"
   ]
 }
