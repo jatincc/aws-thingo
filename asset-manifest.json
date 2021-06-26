@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/aws-thingo/static/js/main.fd208915.chunk.js",
-    "main.js.map": "/aws-thingo/static/js/main.fd208915.chunk.js.map",
+    "main.js": "/aws-thingo/static/js/main.bb545a07.chunk.js",
+    "main.js.map": "/aws-thingo/static/js/main.bb545a07.chunk.js.map",
     "runtime-main.js": "/aws-thingo/static/js/runtime-main.915b1ed3.js",
     "runtime-main.js.map": "/aws-thingo/static/js/runtime-main.915b1ed3.js.map",
     "static/js/2.1e95391f.chunk.js": "/aws-thingo/static/js/2.1e95391f.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.915b1ed3.js",
     "static/js/2.1e95391f.chunk.js",
-    "static/js/main.fd208915.chunk.js"
+    "static/js/main.bb545a07.chunk.js"
   ]
 }
